@@ -1,4 +1,5 @@
 <?php
+    //에러 문구 표시 설정
     ini_set('display_errors', 1);
     //$days에 1을 설정
     function charge($grade, $days = 1){
